@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "productName": "Fresh Avocados",
+        "image": "🥑",
+        "from": "Kashmir",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": "4 🥑",
+        "price": "$2.8",
+        "organic": true,
+        "description": "loremfjlevajnfjnvjwdjkljfijrnknfljdcwfjncdjnf"
+    }
+]
